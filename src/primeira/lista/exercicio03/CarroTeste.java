@@ -6,7 +6,7 @@ Crie uma classe Carro com:
 - Metodo imprimirDados() que mostre as informações.
  */
 
-package exercicio03;
+package primeira.lista.exercicio03;
 
 public class CarroTeste {
 

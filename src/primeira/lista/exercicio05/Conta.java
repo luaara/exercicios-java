@@ -1,4 +1,4 @@
-package exercicio05;
+package primeira.lista.exercicio05;
 
 public class Conta {
     private double saldo;

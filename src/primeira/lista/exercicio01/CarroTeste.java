@@ -11,7 +11,7 @@ No metodo setAno, não permita anos menores que 1886 (primeiro carro criado).
 Depois, teste a classe em CarroTest.
 */
 
-package exercicio01;
+package primeira.lista.exercicio01;
 
 public class CarroTeste {
 

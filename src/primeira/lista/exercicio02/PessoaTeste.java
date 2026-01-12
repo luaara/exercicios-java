@@ -7,7 +7,7 @@ Crie uma classe Pessoa para incluir:
  */
 
 
-package exercicio02;
+package primeira.lista.exercicio02;
 
 public class PessoaTeste {
     public static void main(String[] args){

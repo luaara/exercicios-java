@@ -7,7 +7,7 @@ Crie uma classe Conta com:
 - Sem setter — ninguém pode alterar o saldo direto.
  */
 
-package exercicio05;
+package primeira.lista.exercicio05;
 
 public class ContaTeste {
 

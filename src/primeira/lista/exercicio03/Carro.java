@@ -1,4 +1,4 @@
-package exercicio03;
+package primeira.lista.exercicio03;
 
 public class Carro {
     private String marca;

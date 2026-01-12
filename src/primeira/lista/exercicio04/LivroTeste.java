@@ -6,7 +6,7 @@ Crie uma classe Livro com dois construtores:
 - Ambos imprimem os dados com um metodo imprime().
  */
 
-package exercicio04;
+package primeira.lista.exercicio04;
 
 public class LivroTeste {
 
