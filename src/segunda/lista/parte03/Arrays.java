@@ -67,26 +67,26 @@ public class Arrays {
 
         System.out.println("Números da matriz: ");
         int[][] matriz = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-        int soma = 0;
+        int soma1 = 0;
         for (int i = 0; i < matriz.length; i++) {
             for (int j = 0; j < matriz.length; j++) {
-                soma += matriz[i][j];
+                soma1 += matriz[i][j];
                 System.out.println(matriz[i][j]);
             }
         }
 
-        System.out.println("Soma: " + soma);
+        System.out.println("Soma: " + soma1);
 
         System.out.println("Números da matriz: ");
-        int soma1 = 0;
+        int soma2 = 0;
         for (int[] linha : matriz) {
             for (int num : linha) {
-                soma1 += num;
+                soma2 += num;
                 System.out.println(num);
             }
         }
 
-        System.out.println("Soma: " + soma1);
+        System.out.println("Soma: " + soma2);
 
 
     }
